@@ -50,14 +50,4 @@ public class AddressBook{
 		}
 
 	}
-
-	private void printContactDetails() {
-		// TODO Auto-generated method stub
 		
-	}
-
-	private void editContact(String nameToEdit) {
-		// TODO Auto-generated method stub
-		
-	}
-}
